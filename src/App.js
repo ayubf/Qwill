@@ -4,6 +4,7 @@ import './static/css/index.css';
 import './static/css/bootstrap.min.css';
 
 import TopBar from './components/children/TopBar';
+import Footer from "./components/children/Footer";
 import HomePage from "./HomePage";
 import LoginPage from "./LoginPage";
 import SettingsPage from "./SettingsPage";
@@ -31,6 +32,7 @@ function App() {
           <Route path="/newpost" element={<NewPost />}></Route>
         </Routes>
       </Router>
+      <Footer />
     </div>
 
     )

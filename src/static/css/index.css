@@ -158,3 +158,8 @@ html {
   margin:0 auto; 
   padding: 20px;
 }
+
+.footerDiv {
+  font-family: "UbuntuMono-Regular";
+  text-align: center;
+}
