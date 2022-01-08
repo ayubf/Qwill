@@ -1,0 +1,160 @@
+@import url('fonts.css');
+
+/*#6b3c8f; <- The Purple */
+*{
+    padding:0;
+    margin:0;
+    
+}
+
+
+textarea {
+    resize: none;
+}
+
+#main {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+}
+
+
+#app {
+    font-family: "OpenSans-Regular", sans-serif;
+    height:100px;
+    font-size:13px; 
+}
+
+
+
+html {
+    background-color: whitesmoke;
+  }
+  
+#root{
+    background-color:whitesmoke;
+  }
+  
+#title {
+    font-size:52px;
+    font-family: "Ubuntu-Bold";
+    color: #6b3c8f;
+    
+  }
+  
+  
+#widesearch {
+    width: 350px;
+  }
+  
+#topbar {
+    background-color: white;
+    position: sticky;
+    top:0;
+    z-index: 1000;
+  }
+
+.widgetarea {
+    width:50%;
+    display: flex;
+    flex-direction: row;
+  }
+  
+.postarea {
+    width: 70%;
+    display: inline-block;
+  }
+
+
+.postform {
+    max-width: 1000px;
+    margin:0 auto; 
+    padding: 30px;
+}
+  
+.sidewidget {
+    width: 30%;
+    position:sticky;
+    
+  }
+  
+.sidewidget, .postarea {
+    display:inline-block;
+    padding: 15px;
+}
+  
+.whitewidget {
+    width: 25%;
+    display:inline-block;
+    /* height: 839px; */
+  }
+
+.icons {
+  height:30px;
+  width:30px;
+  padding: 2px;
+}
+
+
+#topbaroptions {
+  text-align: center;
+}
+
+#profile-drop {
+  outline:none !important;
+  height: 10px;
+  width: 10px;
+}
+
+#burgerbutton {
+  height:30px;
+  width:30px;
+}
+
+.card {
+  border-radius: 15px !important;
+}
+
+.postbuttons {
+  outline: none !important;
+  display: inline-block;
+  padding-right: 4px;
+}
+
+.posttitle, .posttitle:hover, .posttitle:visited {
+  color:inherit;
+  text-decoration:none;
+}
+
+.post, .post:hover {
+  text-decoration: none;
+  color:inherit;
+}
+
+.postArea{
+  resize:none;
+}
+
+
+#register {
+  padding-top: 30px;
+  margin:auto;
+  width:20%;
+}
+
+
+#login {
+  padding-top: 30px;
+  margin:auto;
+  width:20%;
+}
+
+.opt {
+  padding-bottom: 7.5px;
+}
+
+.wikiDiv {
+  max-width: 1000px;
+  margin:0 auto; 
+  padding: 20px;
+}

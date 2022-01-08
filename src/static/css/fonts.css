@@ -1,0 +1,118 @@
+/*Ubuntu Mono*/
+
+@font-face {
+    font-family: "UbuntuMono-Regular";
+    src: local("UbuntuMono"),
+        url('../fonts/UbuntuMono-Regular.ttf')
+}
+
+@font-face {
+    font-family: "UbuntuMono-Bold";
+    src: url("../fonts/UbuntuMono-Bold.ttf");
+}
+
+@font-face {
+    font-family: "UbuntuMono-BoldItalic";
+    src: url("../fonts/UbuntuMono-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "UbuntuMono-Italic";
+    src: url("../fonts/UbuntuMono-Italic.ttf");
+}
+
+
+/*Ubuntu*/
+
+
+@font-face {
+    font-family: "Ubuntu-Bold";
+    src: url("../fonts/Ubuntu-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url("../fonts/Ubuntu-Light.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-Regular";
+    src: url("../fonts/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-BoldItalic";
+    src: url("../fonts/Ubuntu-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-Medium";
+    src: url("../fonts/Ubuntu-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-MediumItalic";
+    src: url("../fonts/Ubuntu-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-LightItalic";
+    src: url("../fonts/Ubuntu-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu-Italic";
+    src: url("../fonts/Ubuntu-Italic.ttf");
+}
+
+/*OpenSans*/
+
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url("../fonts/OpenSans-Bold.ttf");
+}
+
+@font-face {
+    font-family: "OpenSans-BoldItalic";
+    src: url("../fonts/OpenSans-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "OpenSans-ExtraBold";
+    src: url("../fonts/OpenSans-BoldItalic.ttf")
+}
+
+@font-face {
+    font-family: "OpenSans-ExtraBoldItalic";
+    src: url("../fonts/OpenSans-ExtraBoldItalic.ttf")
+}
+
+@font-face {
+    font-family: "OpenSans-Italic";
+    src: url("../fonts/OpenSans-Italic.ttf");
+}
+
+@font-face{
+    font-family: "OpenSans-Light";
+    src: url("../fonts/OpenSans-Light.ttf")
+}
+
+@font-face {
+    font-family: "OpenSans-LightItalic";
+    src: url("../fonts/OpenSans-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBold";
+    src: url("../fonts/OpenSans-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBoldItalic";
+    src: url("../fonts/OpenSans-SemiBoldItalic.ttf");
+}
